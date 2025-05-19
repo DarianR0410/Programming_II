@@ -1,0 +1,15 @@
+C:\Users\Darian Ramos\C#\SimpleLibrary\obj\Debug\net9.0\SimpleLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darian Ramos\C#\SimpleLibrary\obj\Debug\net9.0\SimpleLibrary.AssemblyInfoInputs.cache
+C:\Users\Darian Ramos\C#\SimpleLibrary\obj\Debug\net9.0\SimpleLibrary.AssemblyInfo.cs
+C:\Users\Darian Ramos\C#\SimpleLibrary\obj\Debug\net9.0\SimpleLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Darian Ramos\C#\SimpleLibrary\obj\Debug\net9.0\SimpleLibrary.sourcelink.json
+C:\Users\Darian Ramos\C#\SimpleLibrary\bin\Debug\net9.0\SimpleLibrary.exe
+C:\Users\Darian Ramos\C#\SimpleLibrary\bin\Debug\net9.0\SimpleLibrary.deps.json
+C:\Users\Darian Ramos\C#\SimpleLibrary\bin\Debug\net9.0\SimpleLibrary.runtimeconfig.json
+C:\Users\Darian Ramos\C#\SimpleLibrary\bin\Debug\net9.0\SimpleLibrary.dll
+C:\Users\Darian Ramos\C#\SimpleLibrary\bin\Debug\net9.0\SimpleLibrary.pdb
+C:\Users\Darian Ramos\C#\SimpleLibrary\obj\Debug\net9.0\SimpleLibrary.dll
+C:\Users\Darian Ramos\C#\SimpleLibrary\obj\Debug\net9.0\refint\SimpleLibrary.dll
+C:\Users\Darian Ramos\C#\SimpleLibrary\obj\Debug\net9.0\SimpleLibrary.pdb
+C:\Users\Darian Ramos\C#\SimpleLibrary\obj\Debug\net9.0\SimpleLibrary.genruntimeconfig.cache
+C:\Users\Darian Ramos\C#\SimpleLibrary\obj\Debug\net9.0\ref\SimpleLibrary.dll

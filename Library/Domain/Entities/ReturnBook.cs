@@ -6,20 +6,25 @@ public class ReturnBook
     
     private Book book;
     private User user;
-    private Booking booking;
-
+    private BookingBook _bookingBook;
+    
     public ReturnBook()
     {
         this.returnDate = returnDate;
         user = new User();
         book = new Book();
-        booking = new Booking();
+        _bookingBook = new BookingBook();
     }
     
     public void ReturnABook()
     {
         // Here goes the logic to return a book.
         Console.WriteLine("Book returned successfully.");
+    }
+
+    public void SetReturnDate(DateTime returnDate)
+    {
+        this.returnDate = returnDate;
     }
     
 }

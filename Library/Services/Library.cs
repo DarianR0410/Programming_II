@@ -4,7 +4,7 @@ public class Library
 {
     private Book book;
     private User user;
-    private Booking booking;
+    private BorrowBook borrowBook;
     private ReturnBook returnBook;
     private AvailableBooks availableBooks;
 
@@ -12,7 +12,7 @@ public class Library
     {
         book = new Book();
         user = new User();
-        booking = new Booking();
+        borrowBook = new BorrowBook();
         returnBook = new ReturnBook();
         availableBooks = new AvailableBooks();
     }
@@ -23,7 +23,7 @@ public class Library
     
     public void BookingABook()
     {
-        booking.BookingABook();
+        //borrowBook.BorrowingABook();
     }
     
     public void ReturnABook()
