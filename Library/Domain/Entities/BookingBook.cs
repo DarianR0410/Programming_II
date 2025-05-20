@@ -1,17 +1,24 @@
-﻿namespace Library;
+﻿namespace Library.Domain.Entities;
 
 public class BookingBook
-{ 
-    private DateTime borrowDate { get; set; }
-    
+{
+    public int idBorrow { get; set; }
+    public DateTime borrowDate { get; set; }
+    public DateTime ? returnDate { get; set; }
     private Book book;
     private User user;
     
+
     public BookingBook()
+    {
+        
+    }
+    public BookingBook(Book book, User user)
     {
         book = new Book();
         user = new User();
         this.borrowDate = borrowDate;
+        this.returnDate = returnDate;
     }
 
     public void BorrowingABook(String title, String isbn, String author)
@@ -36,6 +43,11 @@ public class BookingBook
         {
             Console.WriteLine("Thanks for using our services!");
         }
+    }
+
+    public void ReturnABook()
+    {
+        // Here goes the logic of returning a book.
     }
     
     public void SetBorrowDate(DateTime date)

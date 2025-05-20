@@ -1,15 +1,20 @@
-﻿namespace Library;
+﻿namespace Library.Domain.Entities;
 
 public class Book
 {
-    private int idBook { get; set; }
-    private String isbn { get; set; }
-    private String title { get; set; }
-    private String author { get; set; }
+    public int idBook { get; set; }
+    public String isbn { get; set; }
+    public String title { get; set; }
+    public String author {get; set; }
     
+
     public Book()
     {
-        this.idBook = idBook;
+        
+    }
+    
+    public Book(String isbn, String title, String author)
+    {
         this.isbn = isbn;
         this.author = author;
         this.title = title;

@@ -1,24 +1,16 @@
-﻿namespace Library;
+﻿namespace Library.Domain.Entities;
 
 public class Library
 {
     private Book book;
     private User user;
-    private BorrowBook borrowBook;
-    private ReturnBook returnBook;
-    private AvailableBooks availableBooks;
+    private BookingBook _bookingBook;
 
     public Library()
     {
         book = new Book();
         user = new User();
-        borrowBook = new BorrowBook();
-        returnBook = new ReturnBook();
-        availableBooks = new AvailableBooks();
-    }
-    public void ShowAvailableBooks()
-    {
-        availableBooks.ShowAvailableBooks();
+        _bookingBook = new BookingBook();
     }
     
     public void BookingABook()
@@ -26,14 +18,9 @@ public class Library
         //borrowBook.BorrowingABook();
     }
     
-    public void ReturnABook()
-    {
-        returnBook.ReturnABook();
-    }
-    
     public void RegisterUser()
     {
-        user.RegisterUser();
+        // Here comes the logic to register the users.
     }
     
     public void UserInformation()

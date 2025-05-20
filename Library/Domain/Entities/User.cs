@@ -1,12 +1,17 @@
-﻿namespace Library;
+﻿namespace Library.Domain.Entities;
 
 public class User
 {
-    private int idUser { get; set; }
-    private String name { get; set; }
-    private String lastName { get; set; }
-    
+    public int idUser { get; set; }
+    public String name { get; set; }
+    public String lastName { get; set; }
+
     public User()
+    {
+        
+    }
+    
+    public User(int idUser, String name, String lastName)
     {
         this.idUser = idUser;
         this.name = name;
@@ -20,19 +25,6 @@ public class User
         Console.WriteLine("ID: " + idUser);
         Console.WriteLine("Name: " + name);
         Console.WriteLine("Last Name: " + lastName);
-    }
-
-    public String RegisterUser()
-    {
-
-        Console.WriteLine("Welcome to our library!");
-        Console.WriteLine("To register with us, please provide the following information: ");
-        Console.Write("What's your first name? ");
-        name = Console.ReadLine();
-        Console.Write("What's your last name? ");
-        lastName = Console.ReadLine();
-        
-        return "User registered successfully.";
     }
 
     public void SetUserInformation(String name, String lastName)
