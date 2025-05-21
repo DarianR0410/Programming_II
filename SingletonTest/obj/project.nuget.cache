@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "b4Fa3DUN7ws=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Darian Ramos\\C#\\SingletonTest\\SingletonTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Darian Ramos\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.5\\microsoft.extensions.configuration.9.0.5.nupkg.sha512",
+    "C:\\Users\\Darian Ramos\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.5\\microsoft.extensions.configuration.abstractions.9.0.5.nupkg.sha512",
+    "C:\\Users\\Darian Ramos\\.nuget\\packages\\microsoft.extensions.configuration.binder\\9.0.5\\microsoft.extensions.configuration.binder.9.0.5.nupkg.sha512",
+    "C:\\Users\\Darian Ramos\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.5\\microsoft.extensions.dependencyinjection.9.0.5.nupkg.sha512",
+    "C:\\Users\\Darian Ramos\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.5\\microsoft.extensions.dependencyinjection.abstractions.9.0.5.nupkg.sha512",
+    "C:\\Users\\Darian Ramos\\.nuget\\packages\\microsoft.extensions.logging\\9.0.5\\microsoft.extensions.logging.9.0.5.nupkg.sha512",
+    "C:\\Users\\Darian Ramos\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.5\\microsoft.extensions.logging.abstractions.9.0.5.nupkg.sha512",
+    "C:\\Users\\Darian Ramos\\.nuget\\packages\\microsoft.extensions.logging.configuration\\9.0.5\\microsoft.extensions.logging.configuration.9.0.5.nupkg.sha512",
+    "C:\\Users\\Darian Ramos\\.nuget\\packages\\microsoft.extensions.logging.console\\9.0.5\\microsoft.extensions.logging.console.9.0.5.nupkg.sha512",
+    "C:\\Users\\Darian Ramos\\.nuget\\packages\\microsoft.extensions.options\\9.0.5\\microsoft.extensions.options.9.0.5.nupkg.sha512",
+    "C:\\Users\\Darian Ramos\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\9.0.5\\microsoft.extensions.options.configurationextensions.9.0.5.nupkg.sha512",
+    "C:\\Users\\Darian Ramos\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.5\\microsoft.extensions.primitives.9.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
