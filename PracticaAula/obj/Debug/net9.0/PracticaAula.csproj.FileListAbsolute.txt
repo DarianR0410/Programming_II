@@ -1,0 +1,15 @@
+C:\Users\Darian Ramos\C#\PracticaAula\bin\Debug\net9.0\PracticaAula.exe
+C:\Users\Darian Ramos\C#\PracticaAula\bin\Debug\net9.0\PracticaAula.deps.json
+C:\Users\Darian Ramos\C#\PracticaAula\bin\Debug\net9.0\PracticaAula.runtimeconfig.json
+C:\Users\Darian Ramos\C#\PracticaAula\bin\Debug\net9.0\PracticaAula.dll
+C:\Users\Darian Ramos\C#\PracticaAula\bin\Debug\net9.0\PracticaAula.pdb
+C:\Users\Darian Ramos\C#\PracticaAula\obj\Debug\net9.0\PracticaAula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darian Ramos\C#\PracticaAula\obj\Debug\net9.0\PracticaAula.AssemblyInfoInputs.cache
+C:\Users\Darian Ramos\C#\PracticaAula\obj\Debug\net9.0\PracticaAula.AssemblyInfo.cs
+C:\Users\Darian Ramos\C#\PracticaAula\obj\Debug\net9.0\PracticaAula.csproj.CoreCompileInputs.cache
+C:\Users\Darian Ramos\C#\PracticaAula\obj\Debug\net9.0\PracticaAula.sourcelink.json
+C:\Users\Darian Ramos\C#\PracticaAula\obj\Debug\net9.0\PracticaAula.dll
+C:\Users\Darian Ramos\C#\PracticaAula\obj\Debug\net9.0\refint\PracticaAula.dll
+C:\Users\Darian Ramos\C#\PracticaAula\obj\Debug\net9.0\PracticaAula.pdb
+C:\Users\Darian Ramos\C#\PracticaAula\obj\Debug\net9.0\PracticaAula.genruntimeconfig.cache
+C:\Users\Darian Ramos\C#\PracticaAula\obj\Debug\net9.0\ref\PracticaAula.dll
