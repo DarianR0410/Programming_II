@@ -1,0 +1,15 @@
+C:\Users\Darian Ramos\C#\Figures\bin\Debug\net9.0\Figures.exe
+C:\Users\Darian Ramos\C#\Figures\bin\Debug\net9.0\Figures.deps.json
+C:\Users\Darian Ramos\C#\Figures\bin\Debug\net9.0\Figures.runtimeconfig.json
+C:\Users\Darian Ramos\C#\Figures\bin\Debug\net9.0\Figures.dll
+C:\Users\Darian Ramos\C#\Figures\bin\Debug\net9.0\Figures.pdb
+C:\Users\Darian Ramos\C#\Figures\obj\Debug\net9.0\Figures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darian Ramos\C#\Figures\obj\Debug\net9.0\Figures.AssemblyInfoInputs.cache
+C:\Users\Darian Ramos\C#\Figures\obj\Debug\net9.0\Figures.AssemblyInfo.cs
+C:\Users\Darian Ramos\C#\Figures\obj\Debug\net9.0\Figures.csproj.CoreCompileInputs.cache
+C:\Users\Darian Ramos\C#\Figures\obj\Debug\net9.0\Figures.sourcelink.json
+C:\Users\Darian Ramos\C#\Figures\obj\Debug\net9.0\Figures.dll
+C:\Users\Darian Ramos\C#\Figures\obj\Debug\net9.0\refint\Figures.dll
+C:\Users\Darian Ramos\C#\Figures\obj\Debug\net9.0\Figures.pdb
+C:\Users\Darian Ramos\C#\Figures\obj\Debug\net9.0\Figures.genruntimeconfig.cache
+C:\Users\Darian Ramos\C#\Figures\obj\Debug\net9.0\ref\Figures.dll
