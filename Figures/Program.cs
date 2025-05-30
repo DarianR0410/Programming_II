@@ -20,6 +20,11 @@ class Program
 		shapes.Add(triangleOne);
 		shapes.Add(triangleTwo);
 
+		foreach (var shape in shapes)
+		{
+			Console.WriteLine(shape.Draw());
+		}
+
 		if (triangleOne != triangleTwo)
 			Console.WriteLine("No singleton instance created");
 		else
