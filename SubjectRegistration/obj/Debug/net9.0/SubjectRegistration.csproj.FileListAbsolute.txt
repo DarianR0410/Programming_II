@@ -1,0 +1,15 @@
+C:\Users\Darian Ramos\C#\SubjectRegistration\bin\Debug\net9.0\SubjectRegistration.exe
+C:\Users\Darian Ramos\C#\SubjectRegistration\bin\Debug\net9.0\SubjectRegistration.deps.json
+C:\Users\Darian Ramos\C#\SubjectRegistration\bin\Debug\net9.0\SubjectRegistration.runtimeconfig.json
+C:\Users\Darian Ramos\C#\SubjectRegistration\bin\Debug\net9.0\SubjectRegistration.dll
+C:\Users\Darian Ramos\C#\SubjectRegistration\bin\Debug\net9.0\SubjectRegistration.pdb
+C:\Users\Darian Ramos\C#\SubjectRegistration\obj\Debug\net9.0\SubjectRegistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darian Ramos\C#\SubjectRegistration\obj\Debug\net9.0\SubjectRegistration.AssemblyInfoInputs.cache
+C:\Users\Darian Ramos\C#\SubjectRegistration\obj\Debug\net9.0\SubjectRegistration.AssemblyInfo.cs
+C:\Users\Darian Ramos\C#\SubjectRegistration\obj\Debug\net9.0\SubjectRegistration.csproj.CoreCompileInputs.cache
+C:\Users\Darian Ramos\C#\SubjectRegistration\obj\Debug\net9.0\SubjectRegistration.sourcelink.json
+C:\Users\Darian Ramos\C#\SubjectRegistration\obj\Debug\net9.0\SubjectRegistration.dll
+C:\Users\Darian Ramos\C#\SubjectRegistration\obj\Debug\net9.0\refint\SubjectRegistration.dll
+C:\Users\Darian Ramos\C#\SubjectRegistration\obj\Debug\net9.0\SubjectRegistration.pdb
+C:\Users\Darian Ramos\C#\SubjectRegistration\obj\Debug\net9.0\SubjectRegistration.genruntimeconfig.cache
+C:\Users\Darian Ramos\C#\SubjectRegistration\obj\Debug\net9.0\ref\SubjectRegistration.dll
