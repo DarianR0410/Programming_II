@@ -1,0 +1,15 @@
+C:\Users\Darian Ramos\C#\Practica2\bin\Debug\net9.0\Practica2.exe
+C:\Users\Darian Ramos\C#\Practica2\bin\Debug\net9.0\Practica2.deps.json
+C:\Users\Darian Ramos\C#\Practica2\bin\Debug\net9.0\Practica2.runtimeconfig.json
+C:\Users\Darian Ramos\C#\Practica2\bin\Debug\net9.0\Practica2.dll
+C:\Users\Darian Ramos\C#\Practica2\bin\Debug\net9.0\Practica2.pdb
+C:\Users\Darian Ramos\C#\Practica2\obj\Debug\net9.0\Practica2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darian Ramos\C#\Practica2\obj\Debug\net9.0\Practica2.AssemblyInfoInputs.cache
+C:\Users\Darian Ramos\C#\Practica2\obj\Debug\net9.0\Practica2.AssemblyInfo.cs
+C:\Users\Darian Ramos\C#\Practica2\obj\Debug\net9.0\Practica2.csproj.CoreCompileInputs.cache
+C:\Users\Darian Ramos\C#\Practica2\obj\Debug\net9.0\Practica2.sourcelink.json
+C:\Users\Darian Ramos\C#\Practica2\obj\Debug\net9.0\Practica2.dll
+C:\Users\Darian Ramos\C#\Practica2\obj\Debug\net9.0\refint\Practica2.dll
+C:\Users\Darian Ramos\C#\Practica2\obj\Debug\net9.0\Practica2.pdb
+C:\Users\Darian Ramos\C#\Practica2\obj\Debug\net9.0\Practica2.genruntimeconfig.cache
+C:\Users\Darian Ramos\C#\Practica2\obj\Debug\net9.0\ref\Practica2.dll

@@ -1,0 +1,2 @@
+Date: 6/3/2025 8:35:29 PMType: Calibration.  Note: Calibration done, but may need to change the sensor.
+Date: 6/3/2025 8:37:02 PM Type: Clear of the sensor.  Note: Calibration done, but sensor must be replaced
