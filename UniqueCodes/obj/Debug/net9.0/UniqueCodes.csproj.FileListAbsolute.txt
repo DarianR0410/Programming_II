@@ -1,0 +1,15 @@
+C:\Users\Darian Ramos\C#\UniqueCodes\bin\Debug\net9.0\UniqueCodes.exe
+C:\Users\Darian Ramos\C#\UniqueCodes\bin\Debug\net9.0\UniqueCodes.deps.json
+C:\Users\Darian Ramos\C#\UniqueCodes\bin\Debug\net9.0\UniqueCodes.runtimeconfig.json
+C:\Users\Darian Ramos\C#\UniqueCodes\bin\Debug\net9.0\UniqueCodes.dll
+C:\Users\Darian Ramos\C#\UniqueCodes\bin\Debug\net9.0\UniqueCodes.pdb
+C:\Users\Darian Ramos\C#\UniqueCodes\obj\Debug\net9.0\UniqueCodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darian Ramos\C#\UniqueCodes\obj\Debug\net9.0\UniqueCodes.AssemblyInfoInputs.cache
+C:\Users\Darian Ramos\C#\UniqueCodes\obj\Debug\net9.0\UniqueCodes.AssemblyInfo.cs
+C:\Users\Darian Ramos\C#\UniqueCodes\obj\Debug\net9.0\UniqueCodes.csproj.CoreCompileInputs.cache
+C:\Users\Darian Ramos\C#\UniqueCodes\obj\Debug\net9.0\UniqueCodes.sourcelink.json
+C:\Users\Darian Ramos\C#\UniqueCodes\obj\Debug\net9.0\UniqueCodes.dll
+C:\Users\Darian Ramos\C#\UniqueCodes\obj\Debug\net9.0\refint\UniqueCodes.dll
+C:\Users\Darian Ramos\C#\UniqueCodes\obj\Debug\net9.0\UniqueCodes.pdb
+C:\Users\Darian Ramos\C#\UniqueCodes\obj\Debug\net9.0\UniqueCodes.genruntimeconfig.cache
+C:\Users\Darian Ramos\C#\UniqueCodes\obj\Debug\net9.0\ref\UniqueCodes.dll
