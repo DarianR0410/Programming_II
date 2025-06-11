@@ -1,0 +1,15 @@
+**********************************
+Date: 6/11/2025 2:41:36 PM
+Customer: Darian Ramos
+ID/SSN: 40234507071
+Score: 4
+Message: Good service, I liked it
+**********************************
+
+**********************************
+Date: 6/11/2025 2:45:22 PM
+Customer: Mari Ramirez
+ID/SSN: 12345657890
+Score: 1
+Message: N/A
+**********************************

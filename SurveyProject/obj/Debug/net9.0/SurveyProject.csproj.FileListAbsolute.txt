@@ -1,0 +1,15 @@
+C:\Users\Darian Ramos\C#\SurveyProject\bin\Debug\net9.0\SurveyProject.exe
+C:\Users\Darian Ramos\C#\SurveyProject\bin\Debug\net9.0\SurveyProject.deps.json
+C:\Users\Darian Ramos\C#\SurveyProject\bin\Debug\net9.0\SurveyProject.runtimeconfig.json
+C:\Users\Darian Ramos\C#\SurveyProject\bin\Debug\net9.0\SurveyProject.dll
+C:\Users\Darian Ramos\C#\SurveyProject\bin\Debug\net9.0\SurveyProject.pdb
+C:\Users\Darian Ramos\C#\SurveyProject\obj\Debug\net9.0\SurveyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darian Ramos\C#\SurveyProject\obj\Debug\net9.0\SurveyProject.AssemblyInfoInputs.cache
+C:\Users\Darian Ramos\C#\SurveyProject\obj\Debug\net9.0\SurveyProject.AssemblyInfo.cs
+C:\Users\Darian Ramos\C#\SurveyProject\obj\Debug\net9.0\SurveyProject.csproj.CoreCompileInputs.cache
+C:\Users\Darian Ramos\C#\SurveyProject\obj\Debug\net9.0\SurveyProject.sourcelink.json
+C:\Users\Darian Ramos\C#\SurveyProject\obj\Debug\net9.0\SurveyProject.dll
+C:\Users\Darian Ramos\C#\SurveyProject\obj\Debug\net9.0\refint\SurveyProject.dll
+C:\Users\Darian Ramos\C#\SurveyProject\obj\Debug\net9.0\SurveyProject.pdb
+C:\Users\Darian Ramos\C#\SurveyProject\obj\Debug\net9.0\SurveyProject.genruntimeconfig.cache
+C:\Users\Darian Ramos\C#\SurveyProject\obj\Debug\net9.0\ref\SurveyProject.dll
