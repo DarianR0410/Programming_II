@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "TemperatureRecorder/1.0.0": {
+        "runtime": {
+          "TemperatureRecorder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TemperatureRecorder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Darian Ramos\C#\TemperatureRecorder\bin\Debug\net9.0\TemperatureRecorder.exe
+C:\Users\Darian Ramos\C#\TemperatureRecorder\bin\Debug\net9.0\TemperatureRecorder.deps.json
+C:\Users\Darian Ramos\C#\TemperatureRecorder\bin\Debug\net9.0\TemperatureRecorder.runtimeconfig.json
+C:\Users\Darian Ramos\C#\TemperatureRecorder\bin\Debug\net9.0\TemperatureRecorder.dll
+C:\Users\Darian Ramos\C#\TemperatureRecorder\bin\Debug\net9.0\TemperatureRecorder.pdb
+C:\Users\Darian Ramos\C#\TemperatureRecorder\obj\Debug\net9.0\TemperatureRecorder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darian Ramos\C#\TemperatureRecorder\obj\Debug\net9.0\TemperatureRecorder.AssemblyInfoInputs.cache
+C:\Users\Darian Ramos\C#\TemperatureRecorder\obj\Debug\net9.0\TemperatureRecorder.AssemblyInfo.cs
+C:\Users\Darian Ramos\C#\TemperatureRecorder\obj\Debug\net9.0\TemperatureRecorder.csproj.CoreCompileInputs.cache
+C:\Users\Darian Ramos\C#\TemperatureRecorder\obj\Debug\net9.0\TemperatureRecorder.sourcelink.json
+C:\Users\Darian Ramos\C#\TemperatureRecorder\obj\Debug\net9.0\TemperatureRecorder.dll
+C:\Users\Darian Ramos\C#\TemperatureRecorder\obj\Debug\net9.0\refint\TemperatureRecorder.dll
+C:\Users\Darian Ramos\C#\TemperatureRecorder\obj\Debug\net9.0\TemperatureRecorder.pdb
+C:\Users\Darian Ramos\C#\TemperatureRecorder\obj\Debug\net9.0\TemperatureRecorder.genruntimeconfig.cache
+C:\Users\Darian Ramos\C#\TemperatureRecorder\obj\Debug\net9.0\ref\TemperatureRecorder.dll
