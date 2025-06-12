@@ -1,0 +1,12 @@
+C:\Users\Darian Ramos\C#\NTiers\DataLayer\bin\Debug\net9.0\DataLayer.deps.json
+C:\Users\Darian Ramos\C#\NTiers\DataLayer\bin\Debug\net9.0\DataLayer.dll
+C:\Users\Darian Ramos\C#\NTiers\DataLayer\bin\Debug\net9.0\DataLayer.pdb
+C:\Users\Darian Ramos\C#\NTiers\DataLayer\obj\Debug\net9.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darian Ramos\C#\NTiers\DataLayer\obj\Debug\net9.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\Darian Ramos\C#\NTiers\DataLayer\obj\Debug\net9.0\DataLayer.AssemblyInfo.cs
+C:\Users\Darian Ramos\C#\NTiers\DataLayer\obj\Debug\net9.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Darian Ramos\C#\NTiers\DataLayer\obj\Debug\net9.0\DataLayer.sourcelink.json
+C:\Users\Darian Ramos\C#\NTiers\DataLayer\obj\Debug\net9.0\DataLayer.dll
+C:\Users\Darian Ramos\C#\NTiers\DataLayer\obj\Debug\net9.0\refint\DataLayer.dll
+C:\Users\Darian Ramos\C#\NTiers\DataLayer\obj\Debug\net9.0\DataLayer.pdb
+C:\Users\Darian Ramos\C#\NTiers\DataLayer\obj\Debug\net9.0\ref\DataLayer.dll
