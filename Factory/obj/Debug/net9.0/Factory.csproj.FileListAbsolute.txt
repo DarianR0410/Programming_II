@@ -1,0 +1,15 @@
+C:\Users\Darian Ramos\C#\Factory\bin\Debug\net9.0\Factory.exe
+C:\Users\Darian Ramos\C#\Factory\bin\Debug\net9.0\Factory.deps.json
+C:\Users\Darian Ramos\C#\Factory\bin\Debug\net9.0\Factory.runtimeconfig.json
+C:\Users\Darian Ramos\C#\Factory\bin\Debug\net9.0\Factory.dll
+C:\Users\Darian Ramos\C#\Factory\bin\Debug\net9.0\Factory.pdb
+C:\Users\Darian Ramos\C#\Factory\obj\Debug\net9.0\Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darian Ramos\C#\Factory\obj\Debug\net9.0\Factory.AssemblyInfoInputs.cache
+C:\Users\Darian Ramos\C#\Factory\obj\Debug\net9.0\Factory.AssemblyInfo.cs
+C:\Users\Darian Ramos\C#\Factory\obj\Debug\net9.0\Factory.csproj.CoreCompileInputs.cache
+C:\Users\Darian Ramos\C#\Factory\obj\Debug\net9.0\Factory.sourcelink.json
+C:\Users\Darian Ramos\C#\Factory\obj\Debug\net9.0\Factory.dll
+C:\Users\Darian Ramos\C#\Factory\obj\Debug\net9.0\refint\Factory.dll
+C:\Users\Darian Ramos\C#\Factory\obj\Debug\net9.0\Factory.pdb
+C:\Users\Darian Ramos\C#\Factory\obj\Debug\net9.0\Factory.genruntimeconfig.cache
+C:\Users\Darian Ramos\C#\Factory\obj\Debug\net9.0\ref\Factory.dll
