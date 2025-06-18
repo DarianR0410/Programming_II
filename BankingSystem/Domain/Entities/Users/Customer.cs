@@ -16,7 +16,10 @@ public class Customer
 	[Required]
 	public string Password { get; set; }
 	
+	[InverseProperty("Customer")]
 	public CurrentAccount? CurrentAccount { get; set; }
+	
+	[InverseProperty("Customer")]
 	public SavingAccount? SavingAccount { get; set; }
 
 	public Customer()

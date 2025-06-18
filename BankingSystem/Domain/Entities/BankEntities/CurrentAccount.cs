@@ -7,12 +7,12 @@ namespace Domain;
 public class CurrentAccount : IBankAccount
 {
 	[Key]
-	public long AccountNumber { get; set; }
+	public int AccountNumber { get; set; }
 	[Required]
 	public decimal Balance { get; set; }
-	public Customer Customer { get; set; }
 	
-	[ForeignKey("Customer_FK")]
+	[ForeignKey(nameof(IdCustomer))]
+	public Customer Customer { get; set; }
 	
 	public int IdCustomer { get; set; }
 

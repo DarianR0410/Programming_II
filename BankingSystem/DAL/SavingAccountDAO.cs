@@ -4,11 +4,12 @@ namespace DAL;
 
 public class SavingAccountDAO
 {
-	private List<SavingAccount> SavingAccounts;
-
-	public SavingAccountDAO()
+	private ApplicationDbContext DbContext;
+	public SavingAccount SavingAccount;
+	public SavingAccountDAO(ApplicationDbContext databaseContext)
 	{
-		SavingAccounts = new List<SavingAccount>();
+		DbContext = databaseContext;
+		SavingAccount = new SavingAccount();
 	}
 	
 	public SavingAccount AddSavingAccount(decimal balance, int accountNumber, Customer customer)
@@ -17,47 +18,44 @@ public class SavingAccountDAO
 			return null;
 		
 		
-		SavingAccount newAccount = new SavingAccount { Balance = balance, AccountNumber = accountNumber, Customer = customer };
-		
-		for (int i = 0; i < SavingAccounts.Count; i++)
-		{
-			if (SavingAccounts[i].AccountNumber == accountNumber)
+		 SavingAccount = new SavingAccount { Balance = balance, AccountNumber = accountNumber, Customer = customer};
+		 
+			if (SavingAccount.AccountNumber == accountNumber)
 			{
-				return SavingAccounts[i]; 
+				DbContext.SavingAccounts.Add(SavingAccount);
+				DbContext.SaveChanges();
 			}
-		}
-		
-		SavingAccounts.Add(newAccount);
-		return newAccount;
+			
+		return SavingAccount;
 	}
 	
 	public SavingAccount GetSavingAccount(long accountNumber)
 	{
 		if (accountNumber <= 0)
 			return null;
-		for (int i = 0; i < SavingAccounts.Count; i++)
-		{
-			if (SavingAccounts[i].AccountNumber == accountNumber) 
+
+			if (SavingAccount.AccountNumber == accountNumber)
 			{
-				return SavingAccounts[i];
+				DbContext.SavingAccounts.FindAsync(accountNumber);
+				DbContext.SaveChanges();
 			}
-		}
-		return null; 
+		
+		return SavingAccount; 
 	}
 	
 	public SavingAccount DeleteSavingAccount(long accountNumber)
 	{
 		if (accountNumber <= 0)
 			return null;
-		for (int i = 0; i < SavingAccounts.Count; i++) 
-		{
-			if (SavingAccounts[i].AccountNumber == accountNumber)
+
+			if (SavingAccount.AccountNumber == accountNumber)
 			{
-				SavingAccount deletedAccount = SavingAccounts[i];
-				SavingAccounts.RemoveAt(i);
-				return deletedAccount;
+				DbContext.SavingAccounts.FindAsync(SavingAccount);
+				DbContext.SavingAccounts.Remove(SavingAccount);
+				DbContext.SaveChanges();
+				return SavingAccount;
 			}
-		}
+			
 		return null; 
 	}
 }

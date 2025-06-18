@@ -6,14 +6,15 @@ namespace Domain;
 [Table("SavingAccount", Schema = "LogIn")]
 public class SavingAccount : IBankAccount
 {
-	[Required]
-	public decimal Balance { get; set; }
-	public Customer Customer { get; set; }
 	
 	[Key]
 	public int AccountNumber { get; set; }
+	[Required]
+	public decimal Balance { get; set; }
 	
-	[ForeignKey("SavingAccount_Customer_FK")]
+	[ForeignKey(nameof(IdCustomer))]
+	public Customer Customer { get; set; }
+	
 	public int IdCustomer { get; set; }
 
 	public SavingAccount()

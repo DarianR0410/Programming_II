@@ -4,61 +4,58 @@ namespace DAL;
 
 public class CurrentAccountDAO
 {
-	private List<CurrentAccount> CurrentAccounts;
-	
+	private ApplicationDbContext DbContext;
+	public CurrentAccount CurrentAccount;
 
-	public CurrentAccountDAO()
+	public CurrentAccountDAO(ApplicationDbContext databaseContext)
 	{
-		CurrentAccounts = new List<CurrentAccount>();
+		DbContext = databaseContext;
+		CurrentAccount = new CurrentAccount();
 	}
 	
-	public CurrentAccount AddCurrentAccount(decimal balance, long accountNumber, Customer Customer)
+	public CurrentAccount AddCurrentAccount(decimal balance, int accountNumber, Customer Customer)
 	{
 		if (balance < 0 || accountNumber == 0 || Customer == null)
 			return null;
 		
-		
-		CurrentAccount newAccount = new CurrentAccount { Balance = balance, AccountNumber = accountNumber, Customer = Customer };
-		
-		for (int i = 0; i < CurrentAccounts.Count; i++)
-		{
-			if (CurrentAccounts[i].AccountNumber == accountNumber)
+		CurrentAccount = new CurrentAccount { Balance = balance, AccountNumber = accountNumber, Customer = Customer };
+
+			if (CurrentAccount.AccountNumber == accountNumber)
 			{
-				return CurrentAccounts[i]; 
+				DbContext.CurrentAccounts.Add(CurrentAccount);
+				DbContext.SaveChanges();
 			}
-		}
-		
-		CurrentAccounts.Add(newAccount);
-		return newAccount;
+	
+		return CurrentAccount;
 	}
 	
-	public CurrentAccount GetCurrentAccount(long accountNumber)
+	public CurrentAccount GetCurrentAccount(int accountNumber)
 	{
 		if (accountNumber <= 0)
 			return null;
-		for (int i = 0; i < CurrentAccounts.Count; i++)
-		{
-			if (CurrentAccounts[i].AccountNumber == accountNumber) 
+
+			if (CurrentAccount.AccountNumber == accountNumber)
 			{
-				return CurrentAccounts[i];
+				DbContext.CurrentAccounts.FindAsync(accountNumber);
+				DbContext.SaveChanges();
 			}
-		}
+		
 		return null;
 	}
 	
-	public CurrentAccount DeleteCurrentAccount(long accountNumber)
+	public CurrentAccount DeleteCurrentAccount(int accountNumber)
 	{
 		if (accountNumber <= 0)
 			return null;
-		for (int i = 0; i < CurrentAccounts.Count; i++) 
-		{
-			if (CurrentAccounts[i].AccountNumber == accountNumber)
+
+			if (CurrentAccount.AccountNumber == accountNumber)
 			{
-				CurrentAccount deletedAccount = CurrentAccounts[i];
-				CurrentAccounts.RemoveAt(i); 
-				return deletedAccount;
+				DbContext.CurrentAccounts.FindAsync(accountNumber);
+				DbContext.CurrentAccounts.Remove(CurrentAccount);
+				DbContext.SaveChanges();
+				return CurrentAccount;
 			}
-		}
-		return null; 
+
+			return null;
 	}
 }

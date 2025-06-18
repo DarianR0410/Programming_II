@@ -1,46 +1,64 @@
 ﻿using Domain;
+using Microsoft.EntityFrameworkCore;
 
 namespace DAL;
 
 public class CustomerDAO
 {
-	private List<Customer> Customers;
+	private ApplicationDbContext DbContext;
+	public Customer Customer;
 
-	public CustomerDAO()
+	public CustomerDAO(ApplicationDbContext databaseContext)
 	{
-		Customers = new List<Customer>();
+		DbContext = databaseContext;
+		Customer = new Customer();
+	}
+
+	public Customer SignIn(string emailAddress, string password)
+	{
+		if (string.IsNullOrEmpty(emailAddress) && string.IsNullOrEmpty(password))
+			return null;
+
+		if (Customer.EmailAddress == emailAddress && Customer.Password == password)
+		{
+			DbContext.Customers.Where(cus =>
+				cus.EmailAddress.Contains(emailAddress) && cus.Password.Contains(password));
+			return Customer;
+
+		}
+		
+		return null;
 	}
 	
-	public Customer AddCustomer(string name, string lastName, int id)
+	public Customer AddCustomer(string name, string lastName, int id, string emailAddress, string password)
 	{
 		if (string.IsNullOrEmpty(name) || string.IsNullOrEmpty(lastName) || id < 1)
 			return null;
 		
-		Customer newCustomer = new Customer { Name = name, LastName = lastName, Id = id };
+		Customer = new Customer { Name = name, LastName = lastName, Id = id, EmailAddress = emailAddress, Password = password};
 		
-		for (int i = 0; i < Customers.Count; i++)
-		{
-			if (newCustomer.Name == Customers[i].Name && newCustomer.LastName == Customers[i].LastName && newCustomer.Id == Customers[i].Id)
+			if (Customer.Name == name && Customer.LastName == lastName && Customer.Id == id && Customer.EmailAddress == emailAddress && Customer.Password == password)
 			{
-				return Customers[i]; 
+				DbContext.Customers.Add(Customer);
+				DbContext.SaveChanges();
 			}
-		}
-		
-		Customers.Add(newCustomer);
-		return newCustomer;
+			
+			
+			return Customer;
 	}
 	
-	public Customer GetCustomer(int id)
+	public Customer GetCustomerById(int id)
 	{
 		if (id < 1)
 			return null;
-		for (int i = 0; i < Customers.Count; i++)
-		{
-			if (Customers[i].Id == id)
+		
+			if (Customer.Id == id)
 			{
-				return Customers[i];
+				DbContext.Customers.FindAsync(id);
+				DbContext.SaveChanges();
+				return Customer;
 			}
-		}
+
 		return null; 
 	}
 	
@@ -48,23 +66,16 @@ public class CustomerDAO
 	{
 		if (id < 1)
 			return null;
-		for (int i = 0; i < Customers.Count; i++)
-		{
-			if (Customers[i].Id == id)
+		
+			if (Customer.Id == id)
 			{
-				Customer deletedCustomer = Customers[i];
-				Customers.RemoveAt(i); 
-				return deletedCustomer;
+				DbContext.Customers.FindAsync(id);
+				DbContext.Customers.Remove(Customer);
+				DbContext.SaveChanges();
+				return Customer;
 			}
-		}
+
 		return null; 
-	}
-	
-	public List<Customer> GetAllCustomers()
-	{
-		if (Customers.Count == 0)
-			return null;
-		return Customers; 
 	}
 	
 }
