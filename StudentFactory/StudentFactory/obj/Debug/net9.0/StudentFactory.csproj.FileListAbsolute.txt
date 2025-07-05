@@ -1,0 +1,15 @@
+C:\Users\Darian Ramos\C#\StudentFactory\StudentFactory\bin\Debug\net9.0\StudentFactory.exe
+C:\Users\Darian Ramos\C#\StudentFactory\StudentFactory\bin\Debug\net9.0\StudentFactory.deps.json
+C:\Users\Darian Ramos\C#\StudentFactory\StudentFactory\bin\Debug\net9.0\StudentFactory.runtimeconfig.json
+C:\Users\Darian Ramos\C#\StudentFactory\StudentFactory\bin\Debug\net9.0\StudentFactory.dll
+C:\Users\Darian Ramos\C#\StudentFactory\StudentFactory\bin\Debug\net9.0\StudentFactory.pdb
+C:\Users\Darian Ramos\C#\StudentFactory\StudentFactory\obj\Debug\net9.0\StudentFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darian Ramos\C#\StudentFactory\StudentFactory\obj\Debug\net9.0\StudentFactory.AssemblyInfoInputs.cache
+C:\Users\Darian Ramos\C#\StudentFactory\StudentFactory\obj\Debug\net9.0\StudentFactory.AssemblyInfo.cs
+C:\Users\Darian Ramos\C#\StudentFactory\StudentFactory\obj\Debug\net9.0\StudentFactory.csproj.CoreCompileInputs.cache
+C:\Users\Darian Ramos\C#\StudentFactory\StudentFactory\obj\Debug\net9.0\StudentFactory.sourcelink.json
+C:\Users\Darian Ramos\C#\StudentFactory\StudentFactory\obj\Debug\net9.0\StudentFactory.dll
+C:\Users\Darian Ramos\C#\StudentFactory\StudentFactory\obj\Debug\net9.0\refint\StudentFactory.dll
+C:\Users\Darian Ramos\C#\StudentFactory\StudentFactory\obj\Debug\net9.0\StudentFactory.pdb
+C:\Users\Darian Ramos\C#\StudentFactory\StudentFactory\obj\Debug\net9.0\StudentFactory.genruntimeconfig.cache
+C:\Users\Darian Ramos\C#\StudentFactory\StudentFactory\obj\Debug\net9.0\ref\StudentFactory.dll
