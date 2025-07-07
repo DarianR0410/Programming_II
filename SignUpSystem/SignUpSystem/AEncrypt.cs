@@ -2,7 +2,7 @@
 
 public class AEncrypt
 {
-	public static string Hash(User user)
+	public static string Encrypt(User user)
 	{
 		return "this is an abstract class";
 	}

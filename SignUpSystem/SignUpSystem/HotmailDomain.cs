@@ -8,7 +8,7 @@ public class HotmailDomain : AEncrypt
 	public static byte[] EncryptedData;
 	
 
-	public static string Hash(User user)
+	public static string Encrypt(User user)
 	{
 		string password = user.Password;
 		string key = "10987654321Random";

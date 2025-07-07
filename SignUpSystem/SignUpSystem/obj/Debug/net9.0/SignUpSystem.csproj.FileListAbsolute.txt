@@ -1,0 +1,15 @@
+C:\Users\Darian Ramos\C#\SignUpSystem\SignUpSystem\bin\Debug\net9.0\SignUpSystem.exe
+C:\Users\Darian Ramos\C#\SignUpSystem\SignUpSystem\bin\Debug\net9.0\SignUpSystem.deps.json
+C:\Users\Darian Ramos\C#\SignUpSystem\SignUpSystem\bin\Debug\net9.0\SignUpSystem.runtimeconfig.json
+C:\Users\Darian Ramos\C#\SignUpSystem\SignUpSystem\bin\Debug\net9.0\SignUpSystem.dll
+C:\Users\Darian Ramos\C#\SignUpSystem\SignUpSystem\bin\Debug\net9.0\SignUpSystem.pdb
+C:\Users\Darian Ramos\C#\SignUpSystem\SignUpSystem\obj\Debug\net9.0\SignUpSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darian Ramos\C#\SignUpSystem\SignUpSystem\obj\Debug\net9.0\SignUpSystem.AssemblyInfoInputs.cache
+C:\Users\Darian Ramos\C#\SignUpSystem\SignUpSystem\obj\Debug\net9.0\SignUpSystem.AssemblyInfo.cs
+C:\Users\Darian Ramos\C#\SignUpSystem\SignUpSystem\obj\Debug\net9.0\SignUpSystem.csproj.CoreCompileInputs.cache
+C:\Users\Darian Ramos\C#\SignUpSystem\SignUpSystem\obj\Debug\net9.0\SignUpSystem.sourcelink.json
+C:\Users\Darian Ramos\C#\SignUpSystem\SignUpSystem\obj\Debug\net9.0\SignUpSystem.dll
+C:\Users\Darian Ramos\C#\SignUpSystem\SignUpSystem\obj\Debug\net9.0\refint\SignUpSystem.dll
+C:\Users\Darian Ramos\C#\SignUpSystem\SignUpSystem\obj\Debug\net9.0\SignUpSystem.pdb
+C:\Users\Darian Ramos\C#\SignUpSystem\SignUpSystem\obj\Debug\net9.0\SignUpSystem.genruntimeconfig.cache
+C:\Users\Darian Ramos\C#\SignUpSystem\SignUpSystem\obj\Debug\net9.0\ref\SignUpSystem.dll

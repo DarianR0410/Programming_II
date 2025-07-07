@@ -3,7 +3,7 @@
 public class GmailDomain : AEncrypt
 {
 
-	public static string Hash(User user)
+	public static string Encrypt(User user)
 	{
 		try
 		{
