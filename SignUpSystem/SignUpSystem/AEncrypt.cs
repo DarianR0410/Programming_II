@@ -1,6 +1,6 @@
 ﻿namespace SignUpSystem;
 
-public class AEncrypt
+public abstract class AEncrypt
 {
 	public static string Encrypt(User user)
 	{
