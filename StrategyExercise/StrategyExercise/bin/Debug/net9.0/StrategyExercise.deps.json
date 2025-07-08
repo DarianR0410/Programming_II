@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "StrategyExercise/1.0.0": {
+        "runtime": {
+          "StrategyExercise.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StrategyExercise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
