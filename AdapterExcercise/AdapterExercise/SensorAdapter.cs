@@ -13,7 +13,7 @@ public class SensorAdapter : ISensor
 	
 	public string MeteorologicalMessage(string message)
 	{
-		Sensor.Pressure = Pressure;
+		
 		Sensor.Sensor(Pressure);
 		return "The temperature is " + message + " and the current pressure is: " + Sensor.Sensor(Pressure);
 	}

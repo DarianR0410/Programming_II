@@ -1,0 +1,15 @@
+C:\Users\Darian Ramos\C#\AdapterExcercise\AdapterExercise\bin\Debug\net9.0\AdapterExercise.exe
+C:\Users\Darian Ramos\C#\AdapterExcercise\AdapterExercise\bin\Debug\net9.0\AdapterExercise.deps.json
+C:\Users\Darian Ramos\C#\AdapterExcercise\AdapterExercise\bin\Debug\net9.0\AdapterExercise.runtimeconfig.json
+C:\Users\Darian Ramos\C#\AdapterExcercise\AdapterExercise\bin\Debug\net9.0\AdapterExercise.dll
+C:\Users\Darian Ramos\C#\AdapterExcercise\AdapterExercise\bin\Debug\net9.0\AdapterExercise.pdb
+C:\Users\Darian Ramos\C#\AdapterExcercise\AdapterExercise\obj\Debug\net9.0\AdapterExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darian Ramos\C#\AdapterExcercise\AdapterExercise\obj\Debug\net9.0\AdapterExercise.AssemblyInfoInputs.cache
+C:\Users\Darian Ramos\C#\AdapterExcercise\AdapterExercise\obj\Debug\net9.0\AdapterExercise.AssemblyInfo.cs
+C:\Users\Darian Ramos\C#\AdapterExcercise\AdapterExercise\obj\Debug\net9.0\AdapterExercise.csproj.CoreCompileInputs.cache
+C:\Users\Darian Ramos\C#\AdapterExcercise\AdapterExercise\obj\Debug\net9.0\AdapterExercise.sourcelink.json
+C:\Users\Darian Ramos\C#\AdapterExcercise\AdapterExercise\obj\Debug\net9.0\AdapterExercise.dll
+C:\Users\Darian Ramos\C#\AdapterExcercise\AdapterExercise\obj\Debug\net9.0\refint\AdapterExercise.dll
+C:\Users\Darian Ramos\C#\AdapterExcercise\AdapterExercise\obj\Debug\net9.0\AdapterExercise.pdb
+C:\Users\Darian Ramos\C#\AdapterExcercise\AdapterExercise\obj\Debug\net9.0\AdapterExercise.genruntimeconfig.cache
+C:\Users\Darian Ramos\C#\AdapterExcercise\AdapterExercise\obj\Debug\net9.0\ref\AdapterExercise.dll
