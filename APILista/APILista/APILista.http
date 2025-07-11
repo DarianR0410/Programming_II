@@ -1,0 +1,6 @@
+@APILista_HostAddress = http://localhost:5270
+
+GET {{APILista_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
