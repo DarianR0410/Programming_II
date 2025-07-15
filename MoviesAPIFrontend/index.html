@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Movie Manager</title>
+  <link rel="stylesheet" href="MoviesAPI.css" />
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>🎬 Movie Manager</h1>
+    </header>
+
+    <form id="movieForm">
+      <input type="number" id="idMovie" placeholder="ID" required />
+      <input type="text" id="title" placeholder="Title" required />
+      <input type="text" id="releaseYear" placeholder="Release Year" required />
+      <input type="text" id="genre" placeholder="Genre" required />
+      <input type="text" id="director" placeholder="Director" required />
+      <input type="number" id="rate" placeholder="Rate (1–10)" required />
+      <input type="url" id="movieUrl" placeholder="Image URL" />
+      <input type="url" id="trailerUrl" placeholder="Trailer URL" />
+      <div class="actions">
+        <button type="submit">Add / Update Movie</button>
+      </div>
+    </form>
+
+    <div id="message"></div>
+    <div class="movies-grid" id="moviesContainer"></div>
+  </div>
+
+  <script src="MoviesAPI.js"></script>
+</body>
+</html>
